@@ -76,4 +76,4 @@ make playground
 
 ## License
 
-TODO: no license is set yet. Until one is added, default copyright applies.
+Released under the [MIT License](LICENSE).
